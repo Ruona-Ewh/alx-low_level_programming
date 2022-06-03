@@ -1,10 +1,11 @@
-#include <stdio.h>                                                                                                                      
+#include <stdio.h>
 
-                                                                                                                                        
-/**                                                                                                                                     
- *  * main - main block                                                                                                                
- *   * Return: Always 0 
- *   */
+/**
+ * main -Entry point
+ *
+ * Return: Always 0
+ */
+
 int main(void)                                                                                                                          
 
 {                                                                                                                                       
