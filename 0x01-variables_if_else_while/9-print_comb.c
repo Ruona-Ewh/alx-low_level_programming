@@ -20,5 +20,6 @@ while (x <= '9')
 }
 
 putchar(10);
-return(0);
+return (0);
 }
+i
