@@ -15,7 +15,7 @@ if (c != 'e' && c != 'q')
 putchar(c);
 }
 }
-printf("\n")
+printf("\n");
 
 return (0);
 }
