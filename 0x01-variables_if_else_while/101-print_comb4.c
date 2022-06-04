@@ -40,6 +40,5 @@ int main(void)
 		b = 0;
 	}
 	putchar(10);
-	
 	return (0);
 }
