@@ -22,13 +22,13 @@ while (a <= 9)
 				putchar(32);
 			}
 			coma = 0;
-		putchar(a + '0');
-		putchar(b + '0');
+			putchar(a + '0');
+			putchar(b + '0');
 		}
 		++b;
 	}
 	++a;
-	b =0;
+	b = 0;
 }
 putchar(10);
 
