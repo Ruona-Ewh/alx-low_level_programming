@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * return: 0
+ * Return: 0
  */
 
 int main(void)
@@ -11,11 +11,8 @@ int main(void)
 {
 
 int a = 0;
-
 int b = 0;
-
 int c = 0;
-
 int coma = 1;
 
 while (a <= 9)
