@@ -44,5 +44,4 @@ while  (a <= 9)
 }
 putchar(10);
 return (0);
-}
-					
+}					
