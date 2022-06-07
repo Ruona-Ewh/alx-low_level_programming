@@ -43,5 +43,5 @@ while  (a <= 9)
 	b = 0;
 }
 putchar(10);
-return: (0);
+return (0);
 }
