@@ -14,7 +14,7 @@ int c = 1;
 
 if (n >= 0 && n <= 15)
 {
-	for (m = 0; m<= n; m++)
+	for (m = 0; m <= n; m++)
 	{
 		for (a = 0; a <= n; a++)
 		{
