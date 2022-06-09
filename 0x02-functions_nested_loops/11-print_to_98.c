@@ -2,7 +2,7 @@
 /**
  * print_to_98 - function
  *
- * @n - variable
+ * @n: variable
  *
  * Return: natural numbers
  */
