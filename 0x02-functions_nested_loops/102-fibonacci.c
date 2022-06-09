@@ -8,7 +8,7 @@ int main(void)
 {
 	long int n, a = 1, b = 1, s;
 
-	printf("%ld", al);
+	printf("%ld", a);
 	for (n = 1; n < 50; ++n)
 	{
 		s = a + b;
