@@ -33,4 +33,4 @@ while (row < 10)
 	row++;
 	_putchar(10);
 }
-i}
+}
