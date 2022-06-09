@@ -27,7 +27,7 @@ if (n >= 0 && n <= 15)
 			{
 				printf(", %d", p);
 			}
-			else if (c == && p >= 1000)
+			else if (c ==  0 && p >= 1000)
 			{
 				printf(", %d", p);
 			}
