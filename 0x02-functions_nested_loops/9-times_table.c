@@ -11,7 +11,7 @@ int row = 0;
 int units = 0;
 int tens = 0;
 int n = 0;
-	
+
 while (row < 10)
 {
 	while (col < 10)
@@ -33,4 +33,4 @@ while (row < 10)
 	row++;
 	_putchar(10);
 }
-}
+i}
