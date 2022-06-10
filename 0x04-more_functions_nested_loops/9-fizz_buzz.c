@@ -18,7 +18,7 @@ int main(void)
 			printf("Fizz ");
 		else
 			printf("%d ", n);
-		n++
+		n++;
 	}
 	printf("Buzz\n");
 	return (0);
